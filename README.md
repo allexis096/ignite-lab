@@ -1,5 +1,5 @@
 # ignite-lab
-This repository contains the data of ignite lab 01 using Next.js, Kafka, Nest.js, Graphql, Docker etc.
+This repository contains the data of ignite lab 01 using Next.js, Kafka, Nest.js, GraphQL, Docker etc.
 
 - NestJS
 - GraphQL
