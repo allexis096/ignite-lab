@@ -25,7 +25,7 @@ model Course {
   id String @id @default(uuid())
 
   title String
-  slub  String @unique
+  slug  String @unique
 
   enrolledOn Enrollment[]
 

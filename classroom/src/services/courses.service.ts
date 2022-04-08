@@ -27,7 +27,7 @@ export class CoursesService {
 
     const courseAlreadyExists = await this.prisma.course.findUnique({
       where: {
-        slub: slug,
+        slug,
       },
     });
 
@@ -38,7 +38,7 @@ export class CoursesService {
     return this.prisma.course.create({
       data: {
         title,
-        slub: slug,
+        slug,
       },
     });
   }
