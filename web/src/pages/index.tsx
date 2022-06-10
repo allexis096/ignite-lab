@@ -158,7 +158,7 @@ function Home() {
                       <img
                         className="w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
                         src="https://tailwindui.com/img/component-images/cloud-illustration-teal-cyan.svg"
-                        alt=""
+                        alt="Illustration of a cloud"
                       />
                     </div>
                   </div>
